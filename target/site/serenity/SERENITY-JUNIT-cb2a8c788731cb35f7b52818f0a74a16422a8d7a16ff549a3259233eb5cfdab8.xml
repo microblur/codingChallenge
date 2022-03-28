@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Customer order books" skipped="0" tests="2" time="14.51" timestamp="2022-03-28 11:51:59"><testcase name="wholesale user order books"><failure type="java.lang.AssertionError"/><system-err>null
+com.challenge.bdd.orderingbook.OrderingBookStepDefinations.userClickOnSUBMIT(OrderingBookStepDefinations.java:82)
+✽.User click on SUBMIT(src/test/resources/features/ordering/ordering_book.feature:9)
+</system-err></testcase><testcase name="book-lover user order books"/></testsuite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Customer order books" skipped="0" tests="1" time="6.64" timestamp="2022-03-28 10:43:42"><testcase name="book-lover user order books"><failure type="java.lang.AssertionError"/><system-err>null
+com.challenge.bdd.orderingbook.OrderingBookStepDefinations.transactionRecordShouldBeGeneratedAs(OrderingBookStepDefinations.java:92)
+✽.Transaction Record should be generated as "1,The Rainbow,1,$125,$125,$12.5,$112.50"(src/test/resources/features/ordering/ordering_book.feature:14)
+</system-err></testcase></testsuite>
